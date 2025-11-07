@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Huy</h1>
 <p align="center">
-  Developer & AI/Django Enthusiast from Viet Nam 🇻🇳
+  🔧 Learning, coding, and improving every single day.
 </p>
 
 <p align="center">
