@@ -43,22 +43,16 @@
 ---
 
 ### 📊 Activities
-<!-- 2 cột: Ngôn ngữ & Thống kê (cùng chiều rộng) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBong2925&layout=compact&theme=radical&hide_border=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=HuyBong2925&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
-<!-- Ảnh minh họa code (canh giữa, chiều rộng hợp lý) -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/04f096b07bdc3b5e8045f17057f8204bee9887fb11ec6a816802649ee66722b5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" width="600" alt="coding" />
 </p>
 
 ---
-
-### 📌 Pinned ideas (to add later)
-- 🎥 **Classroom Attention Monitor** – Django + MySQL + CV
-- 🔎 **Weld Defect Detection** – Python (YOLO) *(coming soon)*
 
 <!-- Footer wave -->
 <div align="center">
